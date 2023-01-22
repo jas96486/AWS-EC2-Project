@@ -1,10 +1,10 @@
 # AWS-EC2-Project-
 This Project is based on the virtual server in which websites are bulid and deploy on the internet.
 
-This is the image of the EC2 Instance is Initializing.
+This is the image of the EC2 Instance Initializing.
 ![image](https://user-images.githubusercontent.com/104744741/213938976-648e01d8-5dcb-425d-addb-8c6a16827cc3.png)
 
-This is the image of the EC2 Instance is Running on the Virtual Server.
+EC2 Instance is Running on the Virtual Server.
 ![image](https://user-images.githubusercontent.com/104744741/213938980-e6467e41-5946-4fbd-b2f2-e9999d1a046e.png)
 
 This is the screenshot of the EC2 Instance in Amazon Machine Image (AMI).
