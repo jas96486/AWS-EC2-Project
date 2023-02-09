@@ -15,3 +15,6 @@ This is the image of the Volume of EC2 Instance in Elastic Block Store.
 
 This is the Snapshot of the EC2 Instance for the backup.
 ![image](https://user-images.githubusercontent.com/104744741/213939007-a9183358-a548-4e0e-bc81-8be422e65390.png)
+
+This is the image of the EC2 virtual website.
+![image](https://user-images.githubusercontent.com/104744741/217957629-19dfb526-c078-4448-a926-1b483f98f302.png)
